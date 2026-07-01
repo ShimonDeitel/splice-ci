@@ -1,0 +1,30 @@
+{
+  "identifier" : "SPLICE-STOREKIT",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "splice_pro_id",
+      "localizations" : [
+        {
+          "description" : "Unlock all blade skins and bead palettes. Purely cosmetic.",
+          "displayName" : "Splice Pro — Blade & Bead Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "splice_pro",
+      "referenceName" : "Splice Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "SPLICE",
+    "_developerTeamID" : "W7Q885Q59C"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
