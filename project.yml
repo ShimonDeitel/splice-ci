@@ -33,6 +33,7 @@ targets:
         INFOPLIST_KEY_UIStatusBarHidden: YES
         ENABLE_USER_SCRIPT_SANDBOXING: YES
         INFOPLIST_KEY_CFBundleDisplayName: Splice
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
     info:
       path: Splice/Info.plist
       properties:

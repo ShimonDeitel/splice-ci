@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C8C7064FC14265FCC40F1DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74C78866917BFD0ADF3F4BFD /* Assets.xcassets */; };
 		2144FD6CD9CCD01882C810D7 /* ShareCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9241369127121E00E744723B /* ShareCard.swift */; };
 		25285589B21DA4A046A57E55 /* GameCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058BBE9D67AA3D8B22C1635E /* GameCenter.swift */; };
 		2633AF7FD573E5C83C2A1E8A /* Configuration.storekit in Resources */ = {isa = PBXBuildFile; fileRef = BB06225C86DB7D44A1BDC035 /* Configuration.storekit */; };
@@ -46,6 +47,7 @@
 		23A896464D9C729174E8164B /* GameStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameStore.swift; sourceTree = "<group>"; };
 		31C9A579C98CD1EA591F16C3 /* CutJudge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CutJudge.swift; sourceTree = "<group>"; };
 		6ED3EB0A2E8F787C53EDE3C2 /* AudioEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioEngine.swift; sourceTree = "<group>"; };
+		74C78866917BFD0ADF3F4BFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A0687F95AB6F6E3A633F28A /* SpliceTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = SpliceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9241369127121E00E744723B /* ShareCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareCard.swift; sourceTree = "<group>"; };
 		9C3C957C3BF1564BC99EC543 /* StoreManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreManager.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				BD6F64A8ECD4A23C2C63EFB9 /* AppDelegate.swift */,
+				74C78866917BFD0ADF3F4BFD /* Assets.xcassets */,
 				6ED3EB0A2E8F787C53EDE3C2 /* AudioEngine.swift */,
 				BB06225C86DB7D44A1BDC035 /* Configuration.storekit */,
 				31C9A579C98CD1EA591F16C3 /* CutJudge.swift */,
@@ -190,6 +193,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C8C7064FC14265FCC40F1DF /* Assets.xcassets in Resources */,
 				2633AF7FD573E5C83C2A1E8A /* Configuration.storekit in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
